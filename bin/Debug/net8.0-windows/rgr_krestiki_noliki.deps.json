@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "rgr_krestiki_noliki/1.0.0": {
+        "runtime": {
+          "rgr_krestiki_noliki.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rgr_krestiki_noliki/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
